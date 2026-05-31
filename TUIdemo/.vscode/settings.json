@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\T34\\Downloads\\jexer-0.3.0.jar",
+    "c:\\Users\\T34\\Downloads\\MyBank.jar",
+    "d:\\Download\\jexer-0.3.0.jar",
+    "d:\\Download\\MyBank.jar"
+  ]
+}
